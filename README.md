@@ -36,5 +36,5 @@ This portfolio showcases my skills, experience, and featured projects in AI/ML, 
 
 ☁️ Deployment
 This portfolio is deployed on Streamlit Cloud:
-*[👉 Live Portfolio](https://leonard-ai-showcase.lovable.app/)
+👉 *[Live Portfolio](https://leonard-ai-showcase.lovable.app/)
 
