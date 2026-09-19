@@ -1,0 +1,37 @@
+# Always keep the .gitignore file itself
+!.gitignore
+
+
+
+# Keep only portfolio essentials
+!portfolio.py
+!requirements.txt
+!README.md
+!attachments/
+
+# Ignore everything else
+*
+
+# Ignore old portfolio files
+index.html
+scripts.js
+styles.css
+The-Arabic-Journey-ArtWork-scaled.jpg
+web-developer-portfolio.docx
+
+# Ignore Word temp/lock files
+~$*.docx
+
+# Ignore the entire assets folder
+assets/
+
+# Ignore temporary files
+*.swp
+*.log
+*.tmp
+
+# Ignore Python cache and environments
+__pycache__/
+*.pyc
+.env
+venv/
