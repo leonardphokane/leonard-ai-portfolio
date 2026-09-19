@@ -1,3 +1,5 @@
+![Header](./header.jpeg)
+
 # Leonard Phokane Portfolio
 
 An interactive developer portfolio built with **Lovable.dev** and deployed on **Streamlit Cloud**.  
