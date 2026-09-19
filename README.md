@@ -1,6 +1,6 @@
 # Leonard Phokane Portfolio
 
-An interactive developer portfolio built with **Streamlit** and deployed on **Streamlit Cloud**.  
+An interactive developer portfolio built with **Lovable.dev** and deployed on **Streamlit Cloud**.  
 This portfolio showcases my skills, experience, and featured projects in AI/ML, Full‑Stack Engineering, and Cloud‑Native DevOps.
 
 ---
@@ -36,5 +36,5 @@ This portfolio showcases my skills, experience, and featured projects in AI/ML, 
 
 ☁️ Deployment
 This portfolio is deployed on Streamlit Cloud:
-👉 Live Portfolio
+*[👉 Live Portfolio](https://leonard-ai-showcase.lovable.app/)
 
